@@ -1,5 +1,7 @@
 # Data Science with R
-Took a course on R basics for Data Science and uploaded everything I learnt  
+Audited a course on R basics for Data Science and uploaded everything I learnt  
+Please do all the exercises by yourself to gain understanding of the course content. 
+It is a very infromative course. course link : 
 https://www.edx.org/professional-certificate/harvardx-data-science
 
 # Taught in edx: HarvardX (course 1 of 9)   
