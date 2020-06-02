@@ -24,5 +24,15 @@ course 3: Probability
 Discrete Probability  
 Continuous Probability  
 Random Varibales, Sampling Models and Central Limit Theory  
-The Big Short
+The Big Short  
+
+course 4: Inference and Modeling  
+Parameters and Estimates  
+CLT in practice  
+Confidence Interval, p-value and spread  
+Statistical Models  
+Bayesian Statistics
+Election forecatsing and t-distribution  
+Association and Chi-Squared Tests  
+
 
