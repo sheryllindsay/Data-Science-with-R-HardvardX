@@ -34,5 +34,15 @@ Statistical Models
 Bayesian Statistics
 Election forecatsing and t-distribution  
 Association and Chi-Squared Tests  
+  
+course 5: Productivity Tools  
+Setting up Github  
+RStudio to Github
+RMarkdown  
+Basic Unix and Advanved Unix  
+
+course 6: Wrangling  
+
+
 
 
