@@ -42,6 +42,23 @@ RMarkdown
 Basic Unix and Advanved Unix  
 
 course 6: Wrangling  
+Data Importing  
+Reshaping data, seperate and unite  
+Combing table, bindings and set operators  
+Web Scraping, CSS selectors  
+String PRocessing: Stringr and Regex  
+Dates, Times and Text Mining  
+  
+course 7: Linear Regression  
+Correlation  
+Stratification and Variance  
+Bivariate Normal Distribution  
+Mutivariate Regression and Least Square Estimate  
+lm function and predict  
+Tibbles, do and broom  
+Regression Fallacy and Measurement Error Models  
+Confounding and Spurious Correlation  
+
 
 
 
